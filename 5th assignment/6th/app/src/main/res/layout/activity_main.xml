@@ -11,7 +11,7 @@
         android:layout_height="fill_parent"
         tools:layout_editor_absoluteX="8dp"
         tools:layout_editor_absoluteY="8dp"
-        android:background="@drawable/navya4">
+        android:background="@drawable/f">
 
     </RelativeLayout>
 </android.support.constraint.ConstraintLayout>
